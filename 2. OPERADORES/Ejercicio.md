@@ -30,10 +30,11 @@ X = 38
       TU RESPUESTA AQUI
 
 X = ((8-6)^2*3)^3.
-X = (2^6)^3
-X = (4*3)^3
+
+X = (2^2*3)^3
+X = (4*3)^3.
 X = 12^3
-X = 1728
+X = 36
 
       TU RESPUESTA AQUI
 
@@ -54,6 +55,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
+Llegar puntual por un mes = bono puntualidad
+Suspención = 2 retardos
+Baja <= 3 retardos
       TU RESPUESTA AQUI
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
@@ -61,17 +65,26 @@ resuelve:
 
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
-
+C>D
+E<F
+G<E
+D>F
+Menor de todos G
       TU RESPUESTA AQUI
 
 3^2 – (10/(8-4))+9 > 100 
+3^2 – (10/4)+9 > 100 
+3^2 – 2.5 +9 > 100 
+9 – 2.5 +9 > 100 
+9 – 2.5 +9 > 100 
+
 
       TU RESPUESTA AQUI
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = VERDADERO
+2) (6! =6) && (12>22)) = FALSO
+3) ¬ (128<145 && 12>9) = FALSO
+4) “Daniela”< >”DANIELA” = VERDADERO
+5) 10*20< >210 = VERDADERO

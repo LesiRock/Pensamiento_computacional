@@ -1,0 +1,13 @@
+1. INICIO
+2. DECLARAR anio_nacimiento(int)
+            anio_actual(int)
+            edad(int)
+            nombre(str)
+3. ASIGNAR anio_actual=2023
+4. MOSTRAR ('Ingresa tu nombre')
+5. ASIGNAR nombre
+6. MOSTRAR ('Ingresa tu año de ncimiento')
+7. ASIGNAR anio_nacimiento
+8. edad=anio_actual - anio_nacimiento
+9. MOSTRAR ('Tu edad ', nombre,'es de ', edad, 'años')
+10. FIN

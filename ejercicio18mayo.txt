@@ -1,0 +1,20 @@
+1. INICIO
+2.DECLARAR cal1(float)
+           cal2(float)
+           cal3(float)
+           cal4(float)
+           nombre(str)
+           promedio(float)
+3.MOSTRAR ('Ingresa el nombre del alumno')
+4.ASISNAR nombre
+5.MOSTRAR ('Ingresa calificacion 1 de ', nombre)
+6.ASIGNAR cal1
+7.MOSTRAR ('Ingresa calificacion 2 de ', nombre)
+8.ASIGNAR cal2
+9.MOSTRAR ('Ingresa calificacion 3 de ', nombre)
+10.ASIGNAR cal3
+11.MOSTRAR ('Ingresa calificacion 4 de ', nombre)
+12.ASIGNAR cal4
+13.promedio=(cal1+cal2+calf3+calf4)/4
+14.MOSTRAR (nombre,': ,calificacion 1: ',cal1, calificacion 2: ',cal2, calificacion 3: ',cal3, calificacion 4: ',cal4, ' promedio:'promedio)
+15.FIN  

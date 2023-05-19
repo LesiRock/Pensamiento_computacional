@@ -1,0 +1,10 @@
+.INICIO
+2.DECLARAR km_moto
+           litros
+           km
+3.Asignacion km=20.8
+4.MOSTRAR ('Ingresar la cantidad de kilometros recorridos por moto')
+5.ASIGNAR km_moto
+6.litros=km_moto*km
+7.MOSTRAR ('Tu consumo de combustible fue de ', litros, 'litros')
+8.FIN

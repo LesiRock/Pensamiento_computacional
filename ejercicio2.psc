@@ -16,5 +16,6 @@ Algoritmo ejercicio2
 	Escribir 'Ingresa calificacion 4 de ', nombre
 	Leer cal4
 	promedio=(cal1+cal2+cal3+cal4)/4
-	Escribir nombre,':' ,' calificacion 1: ',cal1, ' calificacion 2: ',cal2, ' calificacion 3: ',cal3, ' calificacion 4: ',cal4, ' promedio:',promedio
+	Escribir nombre,':' ,' calificacion 1: ',cal1, ' calificacion 2: ',cal2, ' calificacion 3: ',cal3, ' calificacion 4: ',cal4
+	Escribir 'Promedio ' redon(promedio) 
 FinAlgoritmo

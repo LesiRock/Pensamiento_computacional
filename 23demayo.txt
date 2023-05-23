@@ -1,0 +1,14 @@
+1. INICIAR
+2. DECLARAR numero_usuario (INT)
+            numero_secreto (INT)
+            nombre (STR)
+            resultado (BOOL)
+3.ASIGNAR numero_secreto=random(1,100)
+4.MOSTAR "*"+5, "Bienvenido! al juego de adivinar el numero", "*"*5
+5. MOSTAR "Escribe tu nombre"
+6. ASIGNAR nombre
+7.MOSTRAR nombre "Adivina el numero secreto"
+8. ASIGNAR numero_usuario
+9. resultado= numero_secreto==numero_usuario
+10. MOSTRAR "El resultado de tu intento es ", nombre, "es ", resultado
+11. FIN
